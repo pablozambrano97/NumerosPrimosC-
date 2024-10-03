@@ -1,0 +1,11 @@
+C:\Users\emili\OneDrive\Documentos\Taller de Programacion\CalculadoraNumerosPrimos_Soporte\bin\Debug\net8.0\CalculadoraNumerosPrimos_Soporte.deps.json
+C:\Users\emili\OneDrive\Documentos\Taller de Programacion\CalculadoraNumerosPrimos_Soporte\bin\Debug\net8.0\CalculadoraNumerosPrimos_Soporte.dll
+C:\Users\emili\OneDrive\Documentos\Taller de Programacion\CalculadoraNumerosPrimos_Soporte\bin\Debug\net8.0\CalculadoraNumerosPrimos_Soporte.pdb
+C:\Users\emili\OneDrive\Documentos\Taller de Programacion\CalculadoraNumerosPrimos_Soporte\obj\Debug\net8.0\CalculadoraNumerosPrimos_Soporte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emili\OneDrive\Documentos\Taller de Programacion\CalculadoraNumerosPrimos_Soporte\obj\Debug\net8.0\CalculadoraNumerosPrimos_Soporte.AssemblyInfoInputs.cache
+C:\Users\emili\OneDrive\Documentos\Taller de Programacion\CalculadoraNumerosPrimos_Soporte\obj\Debug\net8.0\CalculadoraNumerosPrimos_Soporte.AssemblyInfo.cs
+C:\Users\emili\OneDrive\Documentos\Taller de Programacion\CalculadoraNumerosPrimos_Soporte\obj\Debug\net8.0\CalculadoraNumerosPrimos_Soporte.csproj.CoreCompileInputs.cache
+C:\Users\emili\OneDrive\Documentos\Taller de Programacion\CalculadoraNumerosPrimos_Soporte\obj\Debug\net8.0\CalculadoraNumerosPrimos_Soporte.dll
+C:\Users\emili\OneDrive\Documentos\Taller de Programacion\CalculadoraNumerosPrimos_Soporte\obj\Debug\net8.0\refint\CalculadoraNumerosPrimos_Soporte.dll
+C:\Users\emili\OneDrive\Documentos\Taller de Programacion\CalculadoraNumerosPrimos_Soporte\obj\Debug\net8.0\CalculadoraNumerosPrimos_Soporte.pdb
+C:\Users\emili\OneDrive\Documentos\Taller de Programacion\CalculadoraNumerosPrimos_Soporte\obj\Debug\net8.0\ref\CalculadoraNumerosPrimos_Soporte.dll

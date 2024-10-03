@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CalculadoraNumerosPrimos/1.0.0": {
+        "dependencies": {
+          "CalculadoraNumerosPrimos_Domain": "1.0.0",
+          "CalculadoraNumerosPrimos_Soporte": "1.0.0"
+        },
+        "runtime": {
+          "CalculadoraNumerosPrimos.dll": {}
+        }
+      },
+      "CalculadoraNumerosPrimos_Domain/1.0.0": {
+        "dependencies": {
+          "CalculadoraNumerosPrimos_Soporte": "1.0.0"
+        },
+        "runtime": {
+          "CalculadoraNumerosPrimos_Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CalculadoraNumerosPrimos_Soporte/1.0.0": {
+        "runtime": {
+          "CalculadoraNumerosPrimos_Soporte.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculadoraNumerosPrimos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CalculadoraNumerosPrimos_Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CalculadoraNumerosPrimos_Soporte/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

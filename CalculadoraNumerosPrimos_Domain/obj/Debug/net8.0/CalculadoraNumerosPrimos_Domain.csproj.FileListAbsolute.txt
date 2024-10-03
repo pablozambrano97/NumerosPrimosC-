@@ -1,0 +1,15 @@
+C:\Users\emili\OneDrive\Documentos\Taller de Programacion\CalculadoraNumerosPrimos_Domain\bin\Debug\net8.0\CalculadoraNumerosPrimos_Domain.deps.json
+C:\Users\emili\OneDrive\Documentos\Taller de Programacion\CalculadoraNumerosPrimos_Domain\bin\Debug\net8.0\CalculadoraNumerosPrimos_Domain.dll
+C:\Users\emili\OneDrive\Documentos\Taller de Programacion\CalculadoraNumerosPrimos_Domain\bin\Debug\net8.0\CalculadoraNumerosPrimos_Domain.pdb
+C:\Users\emili\OneDrive\Documentos\Taller de Programacion\CalculadoraNumerosPrimos_Domain\bin\Debug\net8.0\CalculadoraNumerosPrimos_Soporte.dll
+C:\Users\emili\OneDrive\Documentos\Taller de Programacion\CalculadoraNumerosPrimos_Domain\bin\Debug\net8.0\CalculadoraNumerosPrimos_Soporte.pdb
+C:\Users\emili\OneDrive\Documentos\Taller de Programacion\CalculadoraNumerosPrimos_Domain\obj\Debug\net8.0\CalculadoraNumerosPrimos_Domain.csproj.AssemblyReference.cache
+C:\Users\emili\OneDrive\Documentos\Taller de Programacion\CalculadoraNumerosPrimos_Domain\obj\Debug\net8.0\CalculadoraNumerosPrimos_Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emili\OneDrive\Documentos\Taller de Programacion\CalculadoraNumerosPrimos_Domain\obj\Debug\net8.0\CalculadoraNumerosPrimos_Domain.AssemblyInfoInputs.cache
+C:\Users\emili\OneDrive\Documentos\Taller de Programacion\CalculadoraNumerosPrimos_Domain\obj\Debug\net8.0\CalculadoraNumerosPrimos_Domain.AssemblyInfo.cs
+C:\Users\emili\OneDrive\Documentos\Taller de Programacion\CalculadoraNumerosPrimos_Domain\obj\Debug\net8.0\CalculadoraNumerosPrimos_Domain.csproj.CoreCompileInputs.cache
+C:\Users\emili\OneDrive\Documentos\Taller de Programacion\CalculadoraNumerosPrimos_Domain\obj\Debug\net8.0\Calculad.9A58ABC2.Up2Date
+C:\Users\emili\OneDrive\Documentos\Taller de Programacion\CalculadoraNumerosPrimos_Domain\obj\Debug\net8.0\CalculadoraNumerosPrimos_Domain.dll
+C:\Users\emili\OneDrive\Documentos\Taller de Programacion\CalculadoraNumerosPrimos_Domain\obj\Debug\net8.0\refint\CalculadoraNumerosPrimos_Domain.dll
+C:\Users\emili\OneDrive\Documentos\Taller de Programacion\CalculadoraNumerosPrimos_Domain\obj\Debug\net8.0\CalculadoraNumerosPrimos_Domain.pdb
+C:\Users\emili\OneDrive\Documentos\Taller de Programacion\CalculadoraNumerosPrimos_Domain\obj\Debug\net8.0\ref\CalculadoraNumerosPrimos_Domain.dll

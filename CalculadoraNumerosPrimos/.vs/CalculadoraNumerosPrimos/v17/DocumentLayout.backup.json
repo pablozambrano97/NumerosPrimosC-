@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emili\\OneDrive\\Documentos\\Taller de Programacion\\CalculadoraNumerosPrimos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19C2644B-DAA8-4C78-AB0A-CE428D277C19}|CalculadoraNumerosPrimos.csproj|c:\\users\\emili\\onedrive\\documentos\\taller de programacion\\calculadoranumerosprimos\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C2644B-DAA8-4C78-AB0A-CE428D277C19}|CalculadoraNumerosPrimos.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C2644B-DAA8-4C78-AB0A-CE428D277C19}|CalculadoraNumerosPrimos.csproj|c:\\users\\emili\\onedrive\\documentos\\taller de programacion\\calculadoranumerosprimos\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19C2644B-DAA8-4C78-AB0A-CE428D277C19}|CalculadoraNumerosPrimos.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8EF6155-2ACE-4A97-B77D-E65C1AB632CF}|..\\CalculadoraNumerosPrimos_Soporte\\CalculadoraNumerosPrimos_Soporte.csproj|c:\\users\\emili\\onedrive\\documentos\\taller de programacion\\calculadoranumerosprimos_soporte\\calculardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57AA0F32-304C-47DA-83E8-56831147779D}|..\\CalculadoraNumerosPrimos_Domain\\CalculadoraNumerosPrimos_Domain.csproj|c:\\users\\emili\\onedrive\\documentos\\taller de programacion\\calculadoranumerosprimos_domain\\calculodomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C2644B-DAA8-4C78-AB0A-CE428D277C19}|CalculadoraNumerosPrimos.csproj|c:\\users\\emili\\onedrive\\documentos\\taller de programacion\\calculadoranumerosprimos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C2644B-DAA8-4C78-AB0A-CE428D277C19}|CalculadoraNumerosPrimos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalcularDTO.cs",
+              "DocumentMoniker": "C:\\Users\\emili\\OneDrive\\Documentos\\Taller de Programacion\\CalculadoraNumerosPrimos_Soporte\\CalcularDTO.cs",
+              "RelativeDocumentMoniker": "..\\CalculadoraNumerosPrimos_Soporte\\CalcularDTO.cs",
+              "ToolTip": "C:\\Users\\emili\\OneDrive\\Documentos\\Taller de Programacion\\CalculadoraNumerosPrimos_Soporte\\CalcularDTO.cs",
+              "RelativeToolTip": "..\\CalculadoraNumerosPrimos_Soporte\\CalcularDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T02:05:12.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculoDomain.cs",
+              "DocumentMoniker": "C:\\Users\\emili\\OneDrive\\Documentos\\Taller de Programacion\\CalculadoraNumerosPrimos_Domain\\CalculoDomain.cs",
+              "RelativeDocumentMoniker": "..\\CalculadoraNumerosPrimos_Domain\\CalculoDomain.cs",
+              "ToolTip": "C:\\Users\\emili\\OneDrive\\Documentos\\Taller de Programacion\\CalculadoraNumerosPrimos_Domain\\CalculoDomain.cs",
+              "RelativeToolTip": "..\\CalculadoraNumerosPrimos_Domain\\CalculoDomain.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T00:34:44.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\emili\\OneDrive\\Documentos\\Taller de Programacion\\CalculadoraNumerosPrimos\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\emili\\OneDrive\\Documentos\\Taller de Programacion\\CalculadoraNumerosPrimos\\FrmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T23:51:34.191Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\emili\\OneDrive\\Documentos\\Taller de Programacion\\CalculadoraNumerosPrimos\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\emili\\OneDrive\\Documentos\\Taller de Programacion\\CalculadoraNumerosPrimos\\FrmPrincipal.cs",
+              "RelativeToolTip": "FrmPrincipal.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAAALAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T23:29:31.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emili\\OneDrive\\Documentos\\Taller de Programacion\\CalculadoraNumerosPrimos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\emili\\OneDrive\\Documentos\\Taller de Programacion\\CalculadoraNumerosPrimos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T23:14:35.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
